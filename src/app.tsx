@@ -1,10 +1,10 @@
 import { useState } from 'react'
-import Sidebar from './components/Sidebar'
-import TopBar from './components/TopBar'
-import StatsCard from './components/StatsCard'
-import ToolCard from './components/ToolCard'
+import Sidebar from './components/sidebar'
+import TopBar from './components/topbar'
+import StatsCard from './components/statscard'
+import ToolCard from './components/toolcard'
 import QuickActions from './components/QuickActions'
-import TitleBar from './components/TitleBar'
+import TitleBar from './components/titlebar'
 
 const tools = [
   {
